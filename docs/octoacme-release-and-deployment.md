@@ -3,6 +3,8 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+> **Role ownership:** The [Release Manager](./octoacme-roles-and-personas.md#release-manager) owns release coordination and go/no-go decisions. The [DevOps Engineer](./octoacme-roles-and-personas.md#devops-engineer) owns the deployment pipeline and post-release verification. See the [Handoff & Ownership Checklist](./octoacme-handoff-and-ownership-checklist.md) for a full RACI breakdown.
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements

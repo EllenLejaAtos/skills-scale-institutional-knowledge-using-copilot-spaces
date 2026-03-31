@@ -17,8 +17,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- Scrum Master: facilitates Agile ceremonies, removes blockers, coaches the team.
+- UX Designer: translates user needs into designs and guides implementation quality.
+- DevOps Engineer: owns CI/CD pipelines, infrastructure, and deployment operations.
+- Business Analyst: clarifies requirements and bridges business needs with technical solutions.
+- Release Manager: coordinates release readiness, gates deployments, and communicates releases.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+> For full role descriptions and interaction patterns, see [Roles & Personas](./octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +51,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use the [Handoff & Ownership Checklist](./octoacme-handoff-and-ownership-checklist.md) to confirm RACI assignments and phase-by-phase deliverables.
+- Refer to [Roles & Personas](./octoacme-roles-and-personas.md) for detailed role descriptions and interaction patterns.
